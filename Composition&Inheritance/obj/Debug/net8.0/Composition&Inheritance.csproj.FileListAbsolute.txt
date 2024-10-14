@@ -1,0 +1,14 @@
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\bin\Debug\net8.0\Composition&Inheritance.exe
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\bin\Debug\net8.0\Composition&Inheritance.deps.json
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\bin\Debug\net8.0\Composition&Inheritance.runtimeconfig.json
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\bin\Debug\net8.0\Composition&Inheritance.dll
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\bin\Debug\net8.0\Composition&Inheritance.pdb
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.dll
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\refint\Composition&Inheritance.dll
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.pdb
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\Composition&Inheritance.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FullNetCorse\Composition&Inheritance\obj\Debug\net8.0\ref\Composition&Inheritance.dll

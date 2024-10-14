@@ -1,0 +1,14 @@
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\bin\Debug\net7.0\CreationOfObjects.exe
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\bin\Debug\net7.0\CreationOfObjects.deps.json
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\bin\Debug\net7.0\CreationOfObjects.runtimeconfig.json
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\bin\Debug\net7.0\CreationOfObjects.dll
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\bin\Debug\net7.0\CreationOfObjects.pdb
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.AssemblyInfo.cs
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.dll
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\refint\CreationOfObjects.dll
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.pdb
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\CreationOfObjects.genruntimeconfig.cache
+C:\Users\Media\source\repos\FullNetCorse\CreationOfObjects\obj\Debug\net7.0\ref\CreationOfObjects.dll

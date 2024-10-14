@@ -1,0 +1,4 @@
+C:\Users\arekw\source\repos\FullNetCorse\Exercise2\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FullNetCorse\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FullNetCorse\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache

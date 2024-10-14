@@ -1,0 +1,14 @@
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\bin\Debug\net7.0\ErrorHandling.exe
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\bin\Debug\net7.0\ErrorHandling.deps.json
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\bin\Debug\net7.0\ErrorHandling.runtimeconfig.json
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\bin\Debug\net7.0\ErrorHandling.dll
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\bin\Debug\net7.0\ErrorHandling.pdb
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.AssemblyInfo.cs
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.dll
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\refint\ErrorHandling.dll
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.pdb
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ErrorHandling.genruntimeconfig.cache
+C:\Users\Media\source\repos\FullNetCorse\ErrorHandling\obj\Debug\net7.0\ref\ErrorHandling.dll

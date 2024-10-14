@@ -1,0 +1,14 @@
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\bin\Debug\net7.0\Arrays&Lists.exe
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\bin\Debug\net7.0\Arrays&Lists.deps.json
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\bin\Debug\net7.0\Arrays&Lists.runtimeconfig.json
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\bin\Debug\net7.0\Arrays&Lists.dll
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\bin\Debug\net7.0\Arrays&Lists.pdb
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.AssemblyInfo.cs
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.dll
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\refint\Arrays&Lists.dll
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.pdb
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\Arrays&Lists.genruntimeconfig.cache
+C:\Users\Media\source\repos\FullNetCorse\Arrays&Lists\obj\Debug\net7.0\ref\Arrays&Lists.dll

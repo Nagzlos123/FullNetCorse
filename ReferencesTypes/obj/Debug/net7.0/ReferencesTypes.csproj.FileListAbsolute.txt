@@ -1,0 +1,14 @@
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\bin\Debug\net7.0\ReferencesTypes.exe
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\bin\Debug\net7.0\ReferencesTypes.deps.json
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\bin\Debug\net7.0\ReferencesTypes.runtimeconfig.json
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\bin\Debug\net7.0\ReferencesTypes.dll
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\bin\Debug\net7.0\ReferencesTypes.pdb
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.AssemblyInfo.cs
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.dll
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\refint\ReferencesTypes.dll
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.pdb
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ReferencesTypes.genruntimeconfig.cache
+C:\Users\Media\source\repos\FullNetCorse\ReferencesTypes\obj\Debug\net7.0\ref\ReferencesTypes.dll

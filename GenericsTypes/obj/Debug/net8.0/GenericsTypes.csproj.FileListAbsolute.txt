@@ -1,0 +1,14 @@
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\bin\Debug\net8.0\GenericsTypes.exe
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\bin\Debug\net8.0\GenericsTypes.deps.json
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\bin\Debug\net8.0\GenericsTypes.runtimeconfig.json
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\bin\Debug\net8.0\GenericsTypes.dll
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\bin\Debug\net8.0\GenericsTypes.pdb
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.dll
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\refint\GenericsTypes.dll
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.pdb
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\GenericsTypes.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FullNetCorse\GenericsTypes\obj\Debug\net8.0\ref\GenericsTypes.dll

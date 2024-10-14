@@ -1,0 +1,14 @@
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\bin\Debug\net8.0\Exercise1.exe
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\bin\Debug\net8.0\Exercise1.dll
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.dll
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FullNetCorse\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll

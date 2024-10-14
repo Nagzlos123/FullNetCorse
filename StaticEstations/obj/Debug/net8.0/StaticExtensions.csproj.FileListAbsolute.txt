@@ -1,0 +1,14 @@
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\bin\Debug\net8.0\StaticExtensions.exe
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\bin\Debug\net8.0\StaticExtensions.deps.json
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\bin\Debug\net8.0\StaticExtensions.runtimeconfig.json
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\bin\Debug\net8.0\StaticExtensions.dll
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\bin\Debug\net8.0\StaticExtensions.pdb
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.AssemblyInfoInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.AssemblyInfo.cs
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.csproj.CoreCompileInputs.cache
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.dll
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\refint\StaticExtensions.dll
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.pdb
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\StaticExtensions.genruntimeconfig.cache
+C:\Users\arekw\source\repos\FullNetCorse\StaticEstations\obj\Debug\net8.0\ref\StaticExtensions.dll

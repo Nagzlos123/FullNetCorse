@@ -1,0 +1,14 @@
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\bin\Debug\net7.0\RefVarOut.exe
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\bin\Debug\net7.0\RefVarOut.deps.json
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\bin\Debug\net7.0\RefVarOut.runtimeconfig.json
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\bin\Debug\net7.0\RefVarOut.dll
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\bin\Debug\net7.0\RefVarOut.pdb
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.AssemblyInfo.cs
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.dll
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\refint\RefVarOut.dll
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.pdb
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\RefVarOut.genruntimeconfig.cache
+C:\Users\Media\source\repos\FullNetCorse\RefVarOut\obj\Debug\net7.0\ref\RefVarOut.dll

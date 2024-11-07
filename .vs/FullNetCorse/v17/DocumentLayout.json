@@ -1,12 +1,271 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D26E02-9349-481C-B63B-5E09C021D643}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise3\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise3\\ftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\ftpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise3\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|c:\\users\\arekw\\source\\repos\\fullnetcorse\\exercise3\\ftpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B56A81-FE27-414B-8C4A-0FB93F18122D}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\ftpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\ProductService.cs",
+              "RelativeDocumentMoniker": "Exercise4\\ProductService.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\ProductService.cs",
+              "RelativeToolTip": "Exercise4\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:12:52.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\TokenService.cs",
+              "RelativeDocumentMoniker": "Exercise4\\TokenService.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\TokenService.cs",
+              "RelativeToolTip": "Exercise4\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:09:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Exercise4\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\TokenDto.cs",
+              "RelativeToolTip": "Exercise4\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:08:38.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Exercise4\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\ProductDto.cs",
+              "RelativeToolTip": "Exercise4\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:07:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Service.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Service.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Service.cs",
+              "RelativeToolTip": "Exercise4\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:04:40.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\IService.cs",
+              "RelativeDocumentMoniker": "Exercise4\\IService.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\IService.cs",
+              "RelativeToolTip": "Exercise4\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:03:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\IBaseDto.cs",
+              "RelativeDocumentMoniker": "Exercise4\\IBaseDto.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\IBaseDto.cs",
+              "RelativeToolTip": "Exercise4\\IBaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:01:26.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\MessageSender.cs",
+              "RelativeDocumentMoniker": "Exercise4\\MessageSender.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\MessageSender.cs",
+              "RelativeToolTip": "Exercise4\\MessageSender.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:59:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Message.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Message.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Message.cs",
+              "RelativeToolTip": "Exercise4\\Message.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:58:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Program.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise4\\Program.cs",
+              "RelativeToolTip": "Exercise4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:52:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Exercise3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:39:20.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "Exercise3\\MessageHandler.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\MessageHandler.cs",
+              "RelativeToolTip": "Exercise3\\MessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:35:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\DbService.cs",
+              "RelativeDocumentMoniker": "Exercise3\\DbService.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\DbService.cs",
+              "RelativeToolTip": "Exercise3\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:29:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FtpService.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\FtpService.cs",
+              "RelativeDocumentMoniker": "Exercise3\\FtpService.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\FtpService.cs",
+              "RelativeToolTip": "Exercise3\\FtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:27:30.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FtpConnection.cs",
+              "DocumentMoniker": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\FtpConnection.cs",
+              "RelativeDocumentMoniker": "Exercise3\\FtpConnection.cs",
+              "ToolTip": "C:\\Users\\arekw\\source\\repos\\FullNetCorse\\Exercise3\\FtpConnection.cs",
+              "RelativeToolTip": "Exercise3\\FtpConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:26:34.636Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

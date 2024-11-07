@@ -43,11 +43,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticExtensions", "StaticE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exercise2.csproj", "{81CD0E11-525F-4CD4-85DB-5257C551135D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition&Inheritance", "Composition&Inheritance\Composition&Inheritance.csproj", "{515F3B8D-65C6-4CC0-8073-64DB980135FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition&Inheritance", "Composition&Inheritance\Composition&Inheritance.csproj", "{515F3B8D-65C6-4CC0-8073-64DB980135FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomException", "CustomException\CustomException.csproj", "{749F583D-AA43-4700-AAAF-2D3CB7F9C295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomException", "CustomException\CustomException.csproj", "{749F583D-AA43-4700-AAAF-2D3CB7F9C295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAnonymousFunctionsLambda", "DelegatesAnonymousFunctionsLambda\DelegatesAnonymousFunctionsLambda.csproj", "{03383281-4F15-4731-89EA-ECBCAB0EF7E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesAnonymousFunctionsLambda", "DelegatesAnonymousFunctionsLambda\DelegatesAnonymousFunctionsLambda.csproj", "{03383281-4F15-4731-89EA-ECBCAB0EF7E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{84B56A81-FE27-414B-8C4A-0FB93F18122D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "Exercise4\Exercise4.csproj", "{F7D26E02-9349-481C-B63B-5E09C021D643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{03383281-4F15-4731-89EA-ECBCAB0EF7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03383281-4F15-4731-89EA-ECBCAB0EF7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03383281-4F15-4731-89EA-ECBCAB0EF7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B56A81-FE27-414B-8C4A-0FB93F18122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B56A81-FE27-414B-8C4A-0FB93F18122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B56A81-FE27-414B-8C4A-0FB93F18122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B56A81-FE27-414B-8C4A-0FB93F18122D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D26E02-9349-481C-B63B-5E09C021D643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D26E02-9349-481C-B63B-5E09C021D643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D26E02-9349-481C-B63B-5E09C021D643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D26E02-9349-481C-B63B-5E09C021D643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +173,8 @@ Global
 		{515F3B8D-65C6-4CC0-8073-64DB980135FA} = {CC1C883C-4A41-4281-BBAB-4DD58B31A426}
 		{749F583D-AA43-4700-AAAF-2D3CB7F9C295} = {CC1C883C-4A41-4281-BBAB-4DD58B31A426}
 		{03383281-4F15-4731-89EA-ECBCAB0EF7E7} = {CC1C883C-4A41-4281-BBAB-4DD58B31A426}
+		{84B56A81-FE27-414B-8C4A-0FB93F18122D} = {7D6785B8-EB41-4FB9-A5AE-21DB9E246DF0}
+		{F7D26E02-9349-481C-B63B-5E09C021D643} = {7D6785B8-EB41-4FB9-A5AE-21DB9E246DF0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2754F4B5-89EA-4E77-B037-A58A6578666B}
